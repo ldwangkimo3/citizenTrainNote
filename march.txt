@@ -1,10 +1,13 @@
-交火下的救護
+筆記：20221008麥迪克TCCCASM上課筆記
+標題：交火下的救護
+主題：MARCH 處理程序
+
 
 排除(等待)現場威脅解除
 威脅解除後才能進行救助
 趁機將傷患移動到更安全的地方
 //(不考慮脊椎預防措施)
-//若有機會，在傷口的高位處上緊止血帶，阻止危及生命的出血((判斷))
+//若有機會，在傷口的高位處上緊止血帶，第一時間阻止危及生命的出血((判斷))
 //
 檢查4個跡象：
 1，是否有噴血或大量流血 
@@ -23,7 +26,8 @@ MARCH 處理程序
 //
 M 大出血處理 Massive Hemorrhage
 檢查未確認到的出血部位
-5出血點檢查/胸腹/四肢/生殖器到股溝
+5出血點檢查
+胸腹/四肢/生殖器到股溝 檢查
 根據出血部位，使用止血帶/胸封貼片/止血敷料對應處理
 //找到確實的傷勢，調整止血帶位置((判斷))
 //
@@ -31,7 +35,7 @@ M 大出血處理 Massive Hemorrhage
 //
 A 暢通呼吸道 Airway Management
 //
-聽看聞數
+聽看聞數，確認呼吸情形
 //
 讓有意識傷者採取任何最能保護呼吸道的姿勢
 提下巴或推下巴
@@ -43,7 +47,7 @@ R 保持呼吸 Respiration/Breathing
 中度/嚴重創傷性腦損傷
 //
 C 保持體循環 Circulation
-頭(洗頭手勢)/眉/眼/顴/臉
+頭(洗頭手勢)/臉
 5出血點檢查/四肢/生殖器到股溝/背後
 重新檢查止血帶
 
@@ -57,6 +61,26 @@ H 預防失溫 Hypothermia prevention
 
 
 
+-------
+1. Tactical Combat Casualty Care All Service Members Course (TCCC ASM)(下載)(>3GB)
+		https://deployedmedicine.com/links/asm-instructor-materials.zip
+2. Rapid Casualty Assessment Basic Training Demonstration (另有Part2, Part3)(Youtube)
+		https://www.youtube.com/watch?v=7PrLFsJAtjg&list=PLH88PEUnEbibj7I-cuE8WEGxvz15b7uTY&index=27
+3. TCCC筆記	https://hackmd.io/@MilitiaManualTW/rk9LVmaNw
+4. 
 
-1. https://hackmd.io/@MilitiaManualTW/rk9LVmaNw
-2. 
+-------
+相關操作練習列表：
+民人 -	止血帶操作(單手/雙手)，
+	傷患拖行，
+	出血點與全身檢查操作，
+	胸封貼片，
+	填塞止血，
+	檢視呼吸道操作，
+	暢通呼吸道操作，
+	頭部頭骨(臉)檢查，
+	止血帶調整與知識，
+	翻傷患，捲摺毯子，
+
+軍警 -	
+
