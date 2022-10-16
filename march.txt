@@ -41,10 +41,8 @@ A 暢通呼吸道 Airway Management
 提下巴或推下巴
 //
 R 保持呼吸 Respiration/Breathing
-張力性氣胸
-胸部開放性/吸入性傷口
-監測脈搏及血氧飽和度
-中度/嚴重創傷性腦損傷
+
+
 //
 C 保持體循環 Circulation
 頭(洗頭手勢)/臉
